@@ -52,7 +52,7 @@ The output changes according to the selected input.
 
 ### GTKWave Result
 
-![Good MUX Waveform](./good_mux_gtkwave.png)
+![Good MUX GtkWaveform](./good_mux_gtk.png)
 
 ---
 
@@ -66,7 +66,7 @@ standard cell.
 
 ### Yosys Result
 
-![Good MUX Yosys Result](./good_mux_yosys.png)
+![Good MUX Yosys Result](./good_mux_both.png)
 
 ---
 
