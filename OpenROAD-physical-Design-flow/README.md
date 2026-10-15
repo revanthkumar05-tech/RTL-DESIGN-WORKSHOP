@@ -105,8 +105,3 @@ This project provides practical exposure to the physical design flow using OpenR
 
 The work builds a foundation for further exploration of timing analysis, routing verification, congestion analysis, and final layout generation.
 
-## References
-
-- [OpenROAD Project](https://github.com/The-OpenROAD-Project/OpenROAD)
-- [OpenROAD-flow-scripts](https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts)
-- [SkyWater SKY130 PDK](https://github.com/google/skywater-pdk)
